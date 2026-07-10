@@ -25,6 +25,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -35,17 +36,18 @@
 
 <br>
 
-### Contributions
+### Live Projects
 
-<img src="https://ghchart.rshah.org/3fd97f/dsampson94" alt="Contribution heatmap" width="800">
+| | |
+|---|---|
+| 🚀 **[Superstack](https://superstack.co.za)** | Software agency & product studio |
+| 🌐 **[davidsampson.tech](https://www.davidsampson.tech/)** | Personal site & portfolio |
+| 🚕 **[Tazxi](https://tazxi.co.za)** | Ride platform |
+| 🤖 **[Remote Copilot](https://remote-copilot.vercel.app)** | Control a coding/DevOps agent in VS Code from your phone |
+| ☁️ **[AWS 360 Quiz Tool](https://www.awsquiztool.com/)** | AWS certification prep & practice exams |
 
-<br><br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dsampson94&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400&count_private=true" alt="GitHub stats" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsampson94&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top languages" height="160">
-
-<br><br>
-
-🌐 [davidsampson.tech](https://www.davidsampson.tech/)
+📫 **davesampson15@gmail.com**
 
 </div>
